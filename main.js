@@ -18,7 +18,6 @@ fetch('vokabel.txt')
         allVocab = input.map(i => i.split(',,'));
         totalVocab = allVocab.length;
         document.getElementById("points").innerHTML += totalVocab;
-        console.log(allVocab);
         getNewVocab();
     });
 
