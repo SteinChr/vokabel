@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vokabeltrainer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="flaggen-div" class="flaggen-div-deutsch">
+        <p id="einstellungen">Einstellungen</p>
+
+        <p id="flaggen-beschriftung-steuerung">Steuerung</p>
+        <img src="/bilder/at.png" alt="Deutsch" class="flaggen flaggen-steuerung flagge-1 flagge-ausgewaehlt-steuerung" id="flagge-steuerung-1" onclick="changeControlLanguage(1)">
+        <img src="/bilder/gb.png" alt="English" class="flaggen flaggen-steuerung flagge-2" id="flagge-steuerung-2" onclick="changeControlLanguage(2)">
+        <img src="/bilder/es.png" alt="Español" class="flaggen flaggen-steuerung flagge-3" id="flagge-steuerung-3" onclick="changeControlLanguage(3)">
+        
+        <p id="flaggen-beschriftung-vokabel">Vokabel</p>
+        <img src="/bilder/at.png" alt="Deutsch" class="flaggen flaggen-vokabel flagge-1 flagge-ausgewaehlt-vokabel" id="flagge-vokabel-1" onclick="changeVocabLanguage(1)">
+        <img src="/bilder/gb.png" alt="English" class="flaggen flaggen-vokabel flagge-2" id="flagge-vokabel-2" onclick="changeVocabLanguage(2)">
+    </div>
+
+    <h1 id="ueberschrift">Vokabeltrainer</h1>
+    <p id="copyright">&copy; Christian Steinberger, 2021</p>
+    <h2 id="vokabelName">Vokabel: Spanisch: Naturaleza y medio ambiente</h2>
+    <h3 id="points">Richtig: 0/0, Gesamt: </h3>
+    <p id="deutschesVokabel">Bitte warten...</p>
+    <input type="text" id="userInput">
+    <button onclick="checkVocab()" id="button">Überprüfen</button>
+    <p id="richtigFalsch" class="bold"></p>
+    <p id="loesung"></p>
+    
+
+    <script src="main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,180 @@
+body {
+  font-family: "Helvetica";
+}
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+.correct {
+  color: green;
+}
+.wrong {
+  color: red;
+}
+.middle-good {
+  color: yellow;
+}
+.middle-bad {
+  color: orange;
+}
+.hide {
+  display: none;
+}
+.result {
+  font-size: 24px;
+  font-weight: bold;
+}
+.bold {
+  font-weight: bold;
+}
+#button {
+  padding: 8px;
+  border: none;
+  background-color: rgb(18, 140, 253);
+  color: white;
+  border-radius: 8px;
+}
+#userInput {
+  padding: 8px;
+  margin-right: 10px;
+  width: 250px;
+}
+@media only screen and (max-width: 378px) {
+  #userInput {
+    margin-bottom: 15px;
+  }
+}
+@media only screen and (max-width: 290px) {
+  #userInput {
+    width: 200px;
+  }
+}
+#copyright {
+  position: relative;
+  width: 100%;
+  margin-top: -20px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.flaggen {
+  width: 35px;
+  position: absolute;
+  height: 23px;
+}
+.flagge-ausgewaehlt-steuerung,
+.flagge-ausgewaehlt-vokabel {
+  outline-style: solid;
+  outline-color: rgb(90, 212, 253);
+}
+.flagge-1 {
+  right: 100px;
+}
+.flagge-2 {
+  right: 55px;
+}
+.flagge-3 {
+  right: 10px;
+}
+.flaggen-steuerung {
+  top: 52px;
+}
+.flaggen-vokabel {
+  top: 100px;
+}
+#flaggen-beschriftung-steuerung {
+  position: absolute;
+  right: 145px;
+  top: 37px;
+}
+#flaggen-beschriftung-vokabel {
+  position: absolute;
+  right: 145px;
+  top: 85px;
+}
+#einstellungen {
+  position: absolute;
+  top: 5px;
+  right: 45px;
+  font-weight: bold;
+}
+#flaggen-div {
+  position: absolute;
+}
+.flaggen-div-deutsch {
+  top: 0px;
+  right: 0px;
+}
+.flaggen-div-englisch {
+  top: 0px;
+  right: 0px;
+}
+.flaggen-div-spanisch {
+  top: 0px;
+  right: 0px;
+}
+@media only screen and (max-width: 1000px) {
+  .flaggen-div-deutsch {
+    right: 40%;
+    top: 85px;
+  }
+  .flaggen-div-englisch {
+    right: 40%;
+    top: 85px;
+  }
+  .flaggen-div-spanisch {
+    right: 40%;
+    top: 85px;
+  }
+  #vokabelName {
+    padding-top: 100px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .flaggen-div-deutsch {
+    right: 30%;
+  }
+  .flaggen-div-englisch {
+    right: 30%;
+  }
+  .flaggen-div-spanisch {
+    right: 30%;
+  }
+}
+@media only screen and (max-width: 524px) {
+  .flaggen-div-spanisch {
+    top: 125px;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .flaggen-div-deutsch {
+    right: 20%;
+  }
+  .flaggen-div-englisch {
+    right: 20%;
+  }
+  .flaggen-div-spanisch {
+    right: 20%;
+  }
+}
+@media only screen and (max-width: 373px) {
+  .flaggen-div-englisch {
+    top: 125px;
+  }
+}
+@media only screen and (max-width: 300px) {
+  .flaggen-div-deutsch {
+    right: 10%;
+  }
+  .flaggen-div-englisch {
+    right: 10%;
+  }
+  .flaggen-div-spanisch {
+    right: 10%;
+  }
+}
+@media only screen and (max-width: 287px) {
+  .flaggen-div-spanisch {
+    top: 175px;
+  }
+}

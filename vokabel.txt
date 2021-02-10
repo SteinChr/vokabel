@@ -1,0 +1,115 @@
+las catástrofes naturales y los fenómenos atmosféricos,,die Naturkatastrophen und die Wetterphänomene,,Natural disasters and weather phenomena
+el incendio forestal,,der Waldbrand,,forest fire
+el tornado,,der Tornado,,tornado
+la inundación,,die Überschwemmung,,flooding
+la sequía,,die Dürre,,drought
+la nieve,,der Schnee,,snow
+la ráfaga,,der Windstoß,,gust of wind
+el chubasco,,der Platzregen,,downpour
+el terremoto,,das Erdbeben,,earthquake
+el huracán,,der Hurrikan,,hurricane 
+la avalancha,,die Lawine,,avalanche 
+el maremoto/el tsunami,,das Seebeben/der Tsunami,,seaquake/tsunami
+la lluvia,,der Regen,,rain
+la ola marina gigante,,die Riesenwelle,,dumper
+la nevada,,der Schneefall,,snow fall
+el cambio climático,,der Klimawandel,,climate change
+el calentamiento de la tierra,,die Erderwärmung,,global warming
+la contaminación del medio ambiente,,die Umweltverschmutzung,,pollution
+la extinción de especies,,das Aussterben von Spezien,,extinction of species 
+temperaturas altas,,hohe Temperaturen,,high temperatures
+el efecto invernadero,,der Treibhauseffekt,,greenhouse effect
+las emisiones,,die Abgase,,emissions 
+la deforestación,,die Abholzung,,deforestation
+las energías alternativas/renovables,,die alternativen Energiequellen,,alternative energy sources
+la energía solar,,die Solarenergie,,solar energy
+la energía eólica,,die Erdwärme,,geothermal heat
+la biomasa,,die Biomasse,,biomass
+la energía hidroeléctrica,,die Wasserkraft,,waterpower
+la energía geotérmica,,die Erdwärmeenergie,,geothermal heat energy
+el biogas,,das Biogas,,biogas 
+el reciclaje y la separación de basura,,Recycling und die Mülltrennung,,recycling and waste sorting
+la basura orgánica,,der Biomüll,,organic waste
+la basura plástica / la basura no reciclable,,der Plastikmüll,,plastic waste
+el vidrio reciclable,,das Altglas,,glass for recycling
+la basura voluminosa,,der Sperrmüll,,bulky waste
+los desperdicios de papel,,der Papiermüll,,wastepaper
+la basura de aluminio,,der Alumüll,,aluminium waste
+las pilas usadas,,die Altbatterien,,used batteries
+proteger el medio ambiente,,die Umwelt schützen,,to protect the environment
+no contaminar el medio ambiente,,die Umwelt nicht verschmutzen,,to not contaminate the environment
+apagar las luces,,das Licht ausschalten,,to switch the lights off
+comprar productos locales y orgánicos,,regionale und biologische Produkte kaufen,,to buy regional and organic products
+bajar la calefacción,,die Heizung zurückdrehen,,to turn down the heating
+aislar bien la casa,,das Haus gut isolieren,,to insulate the house well
+ventilar,,lüften,,to ventilate
+encender el lavavajillas cuando esté lleno,,den Geschirrspüler einschalten, wenn er voll ist,,to switch on the dishwasher when it is full
+usar la parte blanca de las fotocopias,,Kopien als Schmierpapier verwenden,,to use copies as rough paper
+ahorrar agua,,Wasser sparen,,to save water
+usar detergentes ecológicos,,umweltfreundliche Reinigungsmittel verwenden,,to use energy friendly cleansing agents
+utilizar envases fáciles de reciclar,,recyclebares Verpackungsmaterial verwenden,,to use recyclable packaging
+llevar una bolsa de yute / de tela o una cesta,,einen Jutesack / eine Stofftasche oder einen Korb (mit) nehmen,,to take a jute bag/a cloth bag or a basket
+reutilizar las bolsas de compra,,Einkaufstaschen wiederverwenden,,to reuse plastic bags
+pensar si realmente necesitamos algo cuando vamos de compra,,beim Einkaufen überlegen, was man wirklich braucht,,to think about what you really need when you go shopping
+convertir en compost,,kompostieren,,to compost 
+no dejar el ordenador encendido,,den Computer nicht eingeschaltet lassen,,to not leave the computer switched on
+separar la basura,,den Müll trennen,,to separate the garbage
+comprar productos con poco embalaje,,Produkte mit wenig Verpackungsmaterial kaufen,,to buy products with little packaging
+bajar el aire acondicionado,,die Klimaanlage zurückdrehen,,to turn the air conditioning down
+cerrar las puertas y ventanas,,die Türen und Fenster schließen,,to close windows and doors
+evitar el plástico,,Plastik vermeiden,,to avoid plastic
+imprimir en ambas caras del papel,,doppelseitig ausdrucken,,to print on both sides
+no perder energía,,keine Energie verschwenden,,to no misuse energy
+no contaminar el agua,,das Wasser nicht verschmutzen,,to not contaminate the water
+usar bombillas de bajo consumo,,Energiesparlampen verwenden,,to use energy-saving bulbs
+reutilizar cosas,,Dinge wiederverwenden,,to reuse things
+utilizar el transporte público,,öffentliche Verkehrsmittel verwenden,,to use the public transport
+desplazarse caminando o en bici,,zu Fuß oder mit dem Fahrrad fortbewegen,,to move around walking or with the bike
+no usar pesticidas u otros contaminantes,,keine Pestizide oder andere Schadstoffe verwenden,,to not use pesticides or other harmful substances 
+Compra productos locales.,,Kauf regionale Produkte!,,Buy local products!
+No dejes el ordenador encendido.,,Lass den Computer nicht eingeschaltet!,,Don’t leave the computer switched on!
+Deberías separar la basura.,,Du solltest den Müll trennen.,,You should separate the garbage. 
+Podrías apagar las luces.,,Du könntest das Licht ausschalten.,,You could switch of the light.
+Hay que llevar una cesta de la compra.,,Man soll einen Einkaufskorb mitnehmen.,,One should take a shopping basket.
+Es importante comprar...,,Es ist wichtig, ... zu kaufen.,,It is important to buy...
+Es importante que compres... (+ subj.),,Es ist wichtig, dass du ... kaufst.,,It is important that you buy...
+Compre productos locales.,,Kaufen Sie lokale Produkte!,,Buy local products (polite form)!
+No deje el ordenador encendido.,,Lassen Sie den Computer nicht eingeschaltet!,,Don’t leave the computer switched on (polite form)!
+Es de gran importancia +inf/que+subj.,,Es ist von großer Wichtigkeit ...,,It is very important ...
+Es recomendable / aconsejable inf/que+subj,,Es ist empfehlenswert ...,,It is recommendable...
+En lugar de ir en coche...,,Anstatt mit dem Auto zu fahren...,,Instead of taking the car...
+llover,,regnen,,to rain
+granizar,,hageln,,to hail
+provocar,,auslösen,,to trigger
+destruir,,zerstören,,to destroy 
+rotar/girar,,drehen,,to turn
+mejorar,,besser werden, verbessern,,to get better
+convertir(se) en,,(sich) verwandeln in,,to transform
+hacer volar,,wegfegen,,to sweep away
+no pasar nada,,nichts passieren,,nothing happens
+atravesar,,überqueren,,to cross
+nevar,,schneien,,to snow
+deslizar,,abrutschen,,to slip
+originar,,entspringen,,to rise/to arise
+acompañar,,begleiten,,to accompany
+evitar,,vermeiden,,to avoid
+ponerse en contacto,,Kontakt aufnehmen,,to get in contact with
+preocuparse (por),,sich Sorgen machen um,,to worry about
+buscar,,suchen,,to search
+ponerse (negro),,(schwarz) werden,,to get black
+tumbar,,umstoßen,,to knock over
+las ventajas y las desventajas de las energías alternativas,,die Vor- und Nachteile von alternativen Energiequellen,,advantages and disadvantages of alternative energy sources
+estar disponible en todo el mundo,,auf der ganzen Welt verfügbar sein,,to be available around the globe
+ser un recurso inagotable,,eine unerschöpfliche Ressource sein,,to be an inexhaustible resource 
+ser limpio/-a,,sauber sein,,to be clean
+crear puestos de trabajo,,Arbeitsplätze schaffen,,to provide jobs
+no contaminar el medio ambiente,,die Umwelt nicht verschmutzen,,to not pollute the environment 
+ser barato/-a,,billig sein,,to be cheap
+ser seguro/-a,,sicher sein,,to be safe
+ser flexible,,flexibel sein,,to be flexible
+cambiar el paisaje,,die Landschaft verändern,,to change the landscape
+producir mucho ruido,,viel Lärm erzeugen,,to produce a lot of noise
+requerir espacios de gran extensión,,große Flächen benötigen,,to need big areas
+emitir dióxido de carbono,,Kohlendioxid freisetzen,,to set free carbon dioxide 
+ser caro/-a (la adquisición),,teuer sein (die Anschaffung),,to be expensive (the purchase)
+destruir el hábitat de ciertos animales,,den Lebensraum von gewissen Tieren zerstören,,to destroy the natural habitat of certain animals
