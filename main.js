@@ -11,10 +11,10 @@ let vocabLanguage = 1;
 document.getElementById("userInput").value = '';
 
 //load vocab
-fetch('vokabel.txt')
+fetch('https://steinchr.github.io/vokabel/vokabel.txt')
     .then(response => response.text())
     .then((data) => {
-        input = data.split('\r\n');
+        input = data.split('\n');
         allVocab = input.map(i => i.split(',,'));
         totalVocab = allVocab.length;
         document.getElementById("points").innerHTML += totalVocab;
